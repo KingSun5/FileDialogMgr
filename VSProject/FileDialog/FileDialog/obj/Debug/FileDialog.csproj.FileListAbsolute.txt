@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\bin\Debug\FileDialog.dll
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\bin\Debug\FileDialog.pdb
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\obj\Debug\FileDialog.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\obj\Debug\FileDialog.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\obj\Debug\FileDialog.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\obj\Debug\FileDialog.dll
+C:\Users\Administrator\Desktop\FileDialog\FileDialog\obj\Debug\FileDialog.pdb
